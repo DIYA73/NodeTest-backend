@@ -18,4 +18,4 @@ This project helps me practice:
 
 More features will be added step by step.
 
-Thank you for visiting 🚀
+Thank you for visiting --
